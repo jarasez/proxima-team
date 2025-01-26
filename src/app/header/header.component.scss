@@ -1,0 +1,30 @@
+nav.navbar {
+  height: 60px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.logo-container {
+  background-color: white;
+  height: 59px;
+  width: 235px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 30px;
+}
+
+.proxima-logo {
+  height: 50px;
+}
+
+.navbar-nav {
+  margin-right: 20px;
+}
+
+.nav-link {
+  cursor: pointer;
+  color: #323C4E;
+}
